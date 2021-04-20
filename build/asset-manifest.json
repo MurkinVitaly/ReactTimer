@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MurkinVitaly/MurkinVitaly.github.io/static/css/main.bc96695c.chunk.css",
+    "main.js": "/MurkinVitaly/MurkinVitaly.github.io/static/js/main.ac0c8bfb.chunk.js",
+    "main.js.map": "/MurkinVitaly/MurkinVitaly.github.io/static/js/main.ac0c8bfb.chunk.js.map",
+    "runtime-main.js": "/MurkinVitaly/MurkinVitaly.github.io/static/js/runtime-main.515a6b65.js",
+    "runtime-main.js.map": "/MurkinVitaly/MurkinVitaly.github.io/static/js/runtime-main.515a6b65.js.map",
+    "static/js/2.2e55c1e9.chunk.js": "/MurkinVitaly/MurkinVitaly.github.io/static/js/2.2e55c1e9.chunk.js",
+    "static/js/2.2e55c1e9.chunk.js.map": "/MurkinVitaly/MurkinVitaly.github.io/static/js/2.2e55c1e9.chunk.js.map",
+    "static/js/3.ff4ece10.chunk.js": "/MurkinVitaly/MurkinVitaly.github.io/static/js/3.ff4ece10.chunk.js",
+    "static/js/3.ff4ece10.chunk.js.map": "/MurkinVitaly/MurkinVitaly.github.io/static/js/3.ff4ece10.chunk.js.map",
+    "index.html": "/MurkinVitaly/MurkinVitaly.github.io/index.html",
+    "static/css/main.bc96695c.chunk.css.map": "/MurkinVitaly/MurkinVitaly.github.io/static/css/main.bc96695c.chunk.css.map",
+    "static/js/2.2e55c1e9.chunk.js.LICENSE.txt": "/MurkinVitaly/MurkinVitaly.github.io/static/js/2.2e55c1e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.515a6b65.js",
+    "static/js/2.2e55c1e9.chunk.js",
+    "static/css/main.bc96695c.chunk.css",
+    "static/js/main.ac0c8bfb.chunk.js"
+  ]
+}

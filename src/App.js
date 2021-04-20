@@ -1,17 +1,6 @@
 import React, { useState, useRef } from 'react';
 import "./App.css"
 
-const img = () => {
-    return (
-      <div className='background'>
-        <img src="%PUBLIC_URL%/img/timer.jpg" alt="img" />
-      </div>
-      );
-  }
-
-
-
-
 function padTime(time) {
     return time.toString().padStart(2, '0');
 }
