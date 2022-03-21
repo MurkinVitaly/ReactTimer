@@ -1,7 +1,6 @@
 import { render } from "@testing-library/react";
 import React, { useState, useRef } from "react";
 import "./App.css";
-import imageName from "./image/time.jpg";
 
 function padTime(time) {
   return time.toString().padStart(2, "0");
