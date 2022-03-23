@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MurkinVitaly/ReactTimer.git/precache-manifest.d0c5bc68d5d2fd2c53e2244f8df6fd38.js"
+  "/ReactTimer/precache-manifest.a84aa194ef601ea61e636f74da1b7ad7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MurkinVitaly/ReactTimer.git/index.html", {
+workbox.routing.registerNavigationRoute("/ReactTimer/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
